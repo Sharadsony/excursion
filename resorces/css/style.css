@@ -1,0 +1,46 @@
+**{
+    padding: 0;
+    margin: 0;
+    
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+
+header h1{  
+    font-weight: normal;
+    font-size: 50px;
+    
+}
+
+header p a, main p a{
+    color: aquamarine;
+    font-size: 21px;
+}
+
+
+
+main h3{
+    font-weight: 300;
+    font-size: 42px;
+    
+}
+
+main p{
+    font-size: 21px;
+    color: gray;
+}
+
+.camp{
+    padding-bottom: 50px;
+}
+
+footer{
+    text-align: right;
+    color: gray;
+}
